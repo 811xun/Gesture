@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_string.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_string.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_file.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_file.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_bitmap.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_bitmap.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_jsonarray.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_jsonarray.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_jsonobject.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_jsonobject.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_drawable.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_drawable.xml"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\asimpleCacheDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_object.xml",
+        "source": "D:\\Code\\Gesture\\asimpleCacheDemo\\src\\main\\res\\layout\\activity_save_object.xml"
+    }
+]

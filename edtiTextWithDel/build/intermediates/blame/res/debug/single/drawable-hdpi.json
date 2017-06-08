@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Code\\Gesture\\edtiTextWithDel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_gray.png",
+        "source": "D:\\Code\\Gesture\\edtiTextWithDel\\src\\main\\res\\drawable-hdpi\\delete_gray.png"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\edtiTextWithDel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete.png",
+        "source": "D:\\Code\\Gesture\\edtiTextWithDel\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\Code\\Gesture\\edtiTextWithDel\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Code\\Gesture\\edtiTextWithDel\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
